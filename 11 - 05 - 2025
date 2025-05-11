@@ -1,0 +1,29 @@
+# Sunday 11/05/2025
+
+### 7:00 - 8:30 PM
+
+## Spwaker #1: Dhruv
+
+A hexacopter setup or a quadcopter frame with eight motors mounted on both sides of each arm. This configuration is chosen for improved stability and better weight distribution, making it suitable for applications where enhanced balance and performance are required despite added structural complexity.
+
+## Speaker #2: Rakshita
+
+The scout drone uses a quadcopter VTOL design for hover and scanning area, while the delivery drone employs a hexacopter VTOL setup, offering greater lift capacity to carry payloads efficiently. Both configurations ensure stable hovering, with the hexacopter optimized for heavier loads and the quadcopter for speed and maneuverability.
+
+## Speaker #3: Huzaifa
+
+A tricopter setup, focusing on speed and a lightweight scout drone. Balance between stability is agility.
+
+## Speaker #4: Vrishank
+
+Diving into the specifics - An automated system, working Parallelly with both drones & sync both drones. 
+4G LTE module/5.8 GHz analog video transmitter with ground reciever. 
+
+##Discussion:
+
+A 2 - in - 1 drone, capable of both scouting & delivery. Reduce time to & fro from the launch site, spliting delivery 50-50 between each drone.
+Question: What if multiple volunteer bunch up at a spot? How many payload per geotagged location ?
+
+##Speaker #5: Spoorti
+
+Manual 
