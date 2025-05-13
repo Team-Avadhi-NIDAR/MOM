@@ -1,27 +1,64 @@
-# Thursday 08/05/2025
+# Tuesday 13/05/2025
 
-### 11:45-1:00 PM
+### 9:00 - 10:30  PM
 
-1. Application form Reworked
-2. Tasks Assigned 
-3. Started uploading to GitHub Repo 
-4. Break (1:00-2:00 PM)
+# Tasks Assigned: Literature Review.
+## Due date: 07/06/2025
 
-## Tasks Assigned
+| Objective | Names |
+| --- | --- |
+| Target Identification System | Rishi, Vaishnav |
+| Integrating two drones in one | Sinchan, Vrishank, Yati |
+| Defining actions based on image processing | Spoorti, Manasvi |
+| Delivery System | Dhruv, Huzaifa |
+| Speaker System | Speaker System |
+| Geotagging system | Sinchan, Dhruv, Yati |
 
-| Task  | Names   |
-|--------------- | --------------- |
-| Speakers   | Rakshita, Moiz|
-| Documentation   | Rakshita, Huzaifa   |
-| Embedded Systems   | Vaishnav (HEAD), Rishikesh   |
-| AI/ML   | Sinchan (HEAD), Vrishank   |
-|Structures| Huzaifa, Dhruv, Manasvi|
-|Admin| Spoorthi, Yati|
-|Team Leader| Sinchan KN|
-|Team Vice-Leader| Vaishnav|
+## Discussion on confiuration Selection. 
+1. Quadcopter config. for both drones.
+2. Electro-optic camera / 4k res. camera (10x zoom)
 
-### 2:30 - 3:30 PM
+# Work-Flow:
+1. Conceptual Design.
+2. Preliminary Design.
+3. Detailed Design.
 
-#### Task Assigned
+## Conceptual Design:
 
-1. Go through the rule book. Come out with a solution to the problem (Deadline: 09/08/2025 - 6 PM)
+### Literature Review on following objectives:
+
+1. Target Identification System.
+2. Integrating two drones in one.
+3. Defining actions based on image processing.
+4. Delivery System.
+5. Geotagging System.
+6. Speaker System.
+
+### Mission Plan:
+
+-> Scout drones identifies target.
+
+-> Pass on information to Delivery Drone.
+
+-> Delivery Drone takes off & drops payload.
+
+-> Wait for next target.
+
+-> If no more Target.
+
+-> Return to Base.
+
+
+
+# Tasks Assigned:
+## Due date: 07/06/2025
+| Objective | Names |
+| --- | --- |
+| Target Identification System | Rishi, Vaishnav |
+| Integrating two drones in one | Sinchan, Vrishank, Yati |
+| Defining actions based on image processing | Spoorti, Manasvi |
+| Delivery System | Dhruv, Huzaifa |
+| Speaker System | Speaker System |
+| Geotagging system | Sinchan, Dhruv, Yati |
+1. Minimum 4 research paper on each objective.
+2. Contact @dhruv for PIRATED research papers.
